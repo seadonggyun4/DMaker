@@ -1,0 +1,669 @@
+GET http://localhost:8080/developers
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-12T200406.200.json
+
+###
+
+POST http://localhost:8080/create-developers
+Content-Type: application/json
+Content-Length: 148
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "developerLevel": "JUNIOR",
+  "developerSkillType": "FRONT_END",
+  "experienceYears": 2,
+  "memberId": "Micky",
+  "name": "mouse",
+  "age": 20
+}
+
+<> 2023-11-12T200401.200.json
+
+###
+
+GET http://localhost:8080/developers
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-12T174519.200.json
+
+###
+
+POST http://localhost:8080/create-developers
+Content-Type: application/json
+Content-Length: 148
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "developerLevel": "JUNIOR",
+  "developerSkillType": "FRONT_END",
+  "experienceYears": 2,
+  "memberId": "Micky",
+  "name": "mouse",
+  "age": 20
+}
+
+<> 2023-11-12T174515.200.json
+
+###
+
+GET http://localhost:8080/developers
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-12T173046.200.json
+
+###
+
+DELETE http://localhost:8080/developer/Micky
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-12T173041.200.json
+
+###
+
+GET http://localhost:8080/developers
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-12T173036.200.json
+
+###
+
+PUT http://localhost:8080/developer/Micky
+Content-Type: application/json
+Content-Length: 95
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "developerLevel": "JUNGNIOR",
+  "developerSkillType": "FRONT_END",
+  "experienceYears": 6
+}
+
+<> 2023-11-12T173033.200.json
+
+###
+
+GET http://localhost:8080/developer/Micky
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-12T173021.200.json
+
+###
+
+GET http://localhost:8080/developers
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-12T173017.200.json
+
+###
+
+POST http://localhost:8080/create-developers
+Content-Type: application/json
+Content-Length: 148
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "developerLevel": "JUNIOR",
+  "developerSkillType": "FRONT_END",
+  "experienceYears": 2,
+  "memberId": "Micky",
+  "name": "mouse",
+  "age": 20
+}
+
+<> 2023-11-12T173012.200.json
+
+###
+
+GET http://localhost:8080/developers
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-10T192528.200.json
+
+###
+
+POST http://localhost:8080/developers
+Accept: application/json
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-10T192523.200.json
+
+###
+
+GET http://localhost:8080/developers
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-10T192511.200.json
+
+###
+
+POST http://localhost:8080/create-developers
+Content-Type: application/json
+Content-Length: 148
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "developerLevel": "JUNIOR",
+  "developerSkillType": "FRONT_END",
+  "experienceYears": 2,
+  "memberId": "Micky",
+  "name": "mouse",
+  "age": 20
+}
+
+<> 2023-11-10T192502.200.json
+
+###
+
+POST http://localhost:8080/create-developers
+Content-Type: application/json
+Content-Length: 148
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "developerLevel": "JUNIOR",
+  "developerSkillType": "FRONT_END",
+  "experienceYears": 2,
+  "memberId": "Micky",
+  "name": "mouse",
+  "age": 20
+}
+
+<> 2023-11-10T175551.200.json
+
+###
+
+POST http://localhost:8080/create-developers
+Content-Type: application/json
+Content-Length: 148
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "developerLevel": "JUNIOR",
+  "developerSkillType": "FRONT_END",
+  "experienceYears": 2,
+  "memberId": "Micky",
+  "name": "mouse",
+  "age": 20
+}
+
+<> 2023-11-10T175550.200.json
+
+###
+
+GET http://localhost:8080/developer/Micky
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-10T172707.200.json
+
+###
+
+GET http://localhost:8080/developers
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-10T172650.200.json
+
+###
+
+DELETE http://localhost:8080/developer/Micky
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-10T172643.200.json
+
+###
+
+GET http://localhost:8080/developers
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-10T172536.200.json
+
+###
+
+POST http://localhost:8080/create-developers
+Content-Type: application/json
+Content-Length: 149
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "developerLevel": "JUNIOR",
+  "developerSkillType": "FRONT_END",
+  "experienceYears": 2,
+  "memberId": "Micky1",
+  "name": "mouse",
+  "age": 20
+}
+
+<> 2023-11-10T172531.200.json
+
+###
+
+GET http://localhost:8080/developers
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-10T172513.200.json
+
+###
+
+POST http://localhost:8080/create-developers
+Content-Type: application/json
+Content-Length: 148
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "developerLevel": "JUNIOR",
+  "developerSkillType": "FRONT_END",
+  "experienceYears": 2,
+  "memberId": "Micky",
+  "name": "mouse",
+  "age": 20
+}
+
+<> 2023-11-10T172506.200.json
+
+###
+
+GET http://localhost:8080/developer/Micky
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-10T155511.200.json
+
+###
+
+GET http://localhost:8080/developers
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-10T155503.200.json
+
+###
+
+PUT http://localhost:8080/developer/Micky
+Content-Type: application/json
+Content-Length: 95
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "developerLevel": "JUNGNIOR",
+  "developerSkillType": "FRONT_END",
+  "experienceYears": 6
+}
+
+<> 2023-11-10T155500.200.json
+
+###
+
+GET http://localhost:8080/developers
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-10T155455.200.json
+
+###
+
+POST http://localhost:8080/create-developers
+Content-Type: application/json
+Content-Length: 148
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "developerLevel": "JUNIOR",
+  "developerSkillType": "FRONT_END",
+  "experienceYears": 2,
+  "memberId": "Micky",
+  "name": "mouse",
+  "age": 20
+}
+
+<> 2023-11-10T155448.200.json
+
+###
+
+GET http://localhost:8080/developer/Micky
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-10T155023.200.json
+
+###
+
+GET http://localhost:8080/developers
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-10T155012.200.json
+
+###
+
+GET http://localhost:8080/developers
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-10T155009.200.json
+
+###
+
+PUT http://localhost:8080/developer/Micky
+Content-Type: application/json
+Content-Length: 95
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "developerLevel": "JUNGNIOR",
+  "developerSkillType": "FRONT_END",
+  "experienceYears": 6
+}
+
+<> 2023-11-10T155002.200.json
+
+###
+
+GET http://localhost:8080/developers
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-10T154950.200.json
+
+###
+
+POST http://localhost:8080/create-developers
+Content-Type: application/json
+Content-Length: 148
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "developerLevel": "JUNIOR",
+  "developerSkillType": "FRONT_END",
+  "experienceYears": 2,
+  "memberId": "Micky",
+  "name": "mouse",
+  "age": 20
+}
+
+<> 2023-11-10T154946.200.json
+
+###
+
+GET http://localhost:8080/developers
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-10T154420.200.json
+
+###
+
+GET http://localhost:8080/developer/Micky
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-10T153850.200.json
+
+###
+
+PUT http://localhost:8080/developer/Micky
+Content-Type: application/json
+Content-Length: 95
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "developerLevel": "JUNGNIOR",
+  "developerSkillType": "FRONT_END",
+  "experienceYears": 6
+}
+
+<> 2023-11-10T153837.200.json
+
+###
+
+GET http://localhost:8080/developer/Micky
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-10T153804.200.json
+
+###
+
+POST http://localhost:8080/create-developers
+Content-Type: application/json
+Content-Length: 148
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "developerLevel": "JUNIOR",
+  "developerSkillType": "FRONT_END",
+  "experienceYears": 2,
+  "memberId": "Micky",
+  "name": "mouse",
+  "age": 20
+}
+
+<> 2023-11-10T153757.200.json
+
+###
+
+GET http://localhost:8080/developer/Micky12
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-10T150131.200.json
+
+###
+
+GET http://localhost:8080/developer/Micky2
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-10T150127.500.json
+
+###
+
+GET http://localhost:8080/developers
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-10T150123.200.json
+
+###
+
+GET http://localhost:8080/developers
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-10T150111.200.json
+
+###
+
+POST http://localhost:8080/create-developers
+Content-Type: application/json
+Content-Length: 150
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "developerLevel": "JUNIOR",
+  "developerSkillType": "FRONT_END",
+  "experienceYears": 2,
+  "memberId": "Micky12",
+  "name": "mouse",
+  "age": 20
+}
+
+<> 2023-11-10T150109.200.json
+
+###
+
+POST http://localhost:8080/create-developers
+Content-Type: application/json
+Content-Length: 149
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "developerLevel": "JUNIOR",
+  "developerSkillType": "FRONT_END",
+  "experienceYears": 2,
+  "memberId": "Micky1",
+  "name": "mouse",
+  "age": 20
+}
+
+<> 2023-11-10T150108.200.json
+
+###
+
+GET http://localhost:8080/developers
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-10T150102.200.json
+
+###
+
+GET http://localhost:8080/developer/Micky
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-10T150044.200.json
+
+###
+
+POST http://localhost:8080/create-developers
+Content-Type: application/json
+Content-Length: 148
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "developerLevel": "JUNIOR",
+  "developerSkillType": "FRONT_END",
+  "experienceYears": 2,
+  "memberId": "Micky",
+  "name": "mouse",
+  "age": 20
+}
+
+<> 2023-11-10T150036.200.json
+
+###
+
+GET http://localhost:8080/developers
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8.1)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-11-10T143710.200.json
+
+###
+

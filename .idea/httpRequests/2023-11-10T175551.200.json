@@ -1,0 +1,4 @@
+{
+  "errorCode": "DUPLICATED_MEMBER_ID",
+  "errorMessage": "MemberId가 중복되는 개발자가 있습니다."
+}
